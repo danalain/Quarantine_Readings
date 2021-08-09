@@ -41,7 +41,7 @@ The Bootcamp taught me Python programming language, SQL, financial modeling, dat
 22. [Hustle Harder, Hustle Smarter](https://www.amazon.com/Hustle-Harder-Smarter-Curtis-Jackson/dp/006295380X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1627498887&sr=8-3)
 23. [Can't Hurt Me](https://www.amazon.com/Cant-Hurt-Me-Master-Clean/dp/1544507852/ref=sr_1_1?crid=1C6Q3N5E7NC9P&dchild=1&keywords=can%27t+hurt+me&qid=1614674605&sprefix=Can%27t+Hurt+me%2Caps%2C250&sr=8-1)
 24. [Fortitude](https://www.amazon.com/Fortitude-American-Resilience-Era-Outrage/dp/B085LQ43LJ/ref=sr_1_1?crid=3HIAERS5F6H5Y&dchild=1&keywords=fortitude+dan+crenshaw&qid=1614674627&sprefix=fortitude%2Caps%2C236&sr=8-1)
-25. [Greenlight](https://www.amazon.com/Greenlights-Matthew-McConaughey/dp/0593139135/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1614674652&sr=1-1)
+25. [Greenlights](https://www.amazon.com/Greenlights-Matthew-McConaughey/dp/0593139135/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1614674652&sr=1-1)
 26. [I Can't Make This Up](https://www.amazon.com/Cant-Make-This-Up-Lessons/dp/1501155563/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1627498627&sr=8-2)
 27. [13 Things Mentally Strong People Don't Do](https://www.amazon.com/Things-Mentally-Strong-People-Dont/dp/0062358294/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1627498587&sr=8-2)
 28. [Everything is F**ked: A Book About Hope](https://www.amazon.com/Untitled-Mark-Manson/dp/0062888439/ref=sr_1_1?dchild=1&keywords=everything+is+fucked&qid=1627498497&sr=8-1)
